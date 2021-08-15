@@ -47,10 +47,9 @@ Definition
 
 ~~This is how you cross something out~~
 
-A link is added like this
-[link](https://myku.space)
-and an image is added like this
-![alt text](image.jpg)
+A link is added like
+[this](https://myku.space)
+and an image is added like this (there is probs a better way...)
+![main](IMG_3835.jpeg)
 
-![alt text](https://github.com/[MarthaLaundyBlair]/[Projrct-1]/[main]/?raw=true)
 ---
